@@ -1,0 +1,6 @@
+[submodule "week2/tensor_network_lab"]
+	path = week2/tensor_network_lab
+	url = https://github.com/bawa27/Tensor_Network_Lab
+[submodule "week4/qsvt_lab"]
+	path = week4/qsvt_lab
+	url = https://github.com/bawa27/QSVT_Lab
